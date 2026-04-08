@@ -1,6 +1,6 @@
 import { useTranslation } from "react-i18next";
 import Button from "../../common/button/Button";
-import "./Hero.css";
+import "./hero.css";
 
 export default function Hero() {
   const { t } = useTranslation();

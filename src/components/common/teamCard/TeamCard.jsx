@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
-import "./TeamCard.css";
+import "./teamCard.css";
 
 export default function TeamCard({ nameKey, roleKey, bioKey, image }) {
   const { t } = useTranslation();

@@ -1,4 +1,4 @@
-import "./SectionHeading.css";
+import "./sectionHeading.css";
 
 export default function SectionHeading({
   eyebrow,

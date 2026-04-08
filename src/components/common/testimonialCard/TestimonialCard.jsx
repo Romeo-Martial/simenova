@@ -1,5 +1,5 @@
 import { useTranslation } from "react-i18next";
-import "./TestimonialCard.css";
+import "./testimonialCard.css";
 
 export default function TestimonialCard({ quoteKey, nameKey, roleKey }) {
   const { t } = useTranslation();

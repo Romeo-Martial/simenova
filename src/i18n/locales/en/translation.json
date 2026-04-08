@@ -270,21 +270,6 @@
       "primaryCta": "Book a Consultation",
       "secondaryCta": "Explore Our Services"
     },
-    "about": {
-      "eyebrow": "About SIMENOVA",
-      "title": "Built for Complex Health & Biotech Analytics",
-      "description": "We help organizations navigate data complexity with confidence through advanced analytics, machine learning, and decision-support solutions designed for high-stakes environments.",
-      "highlights": {
-        "one": "Sector-focused expertise in health and biotechnology data",
-        "two": "Advanced analytics and machine learning solutions",
-        "three": "Decision-ready insights for strategic and operational needs"
-      },
-      "cta": "Learn More About Us",
-      "panel": {
-        "label": "Health data intelligence",
-        "value": "Advanced analytics for smarter biotech decision-making"
-      }
-    },
     "trustStrip": {
       "items": [
         "Sector-Focused Expertise",

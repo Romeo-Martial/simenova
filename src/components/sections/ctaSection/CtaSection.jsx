@@ -1,6 +1,6 @@
 import { useTranslation } from "react-i18next";
 import Button from "../../common/button/Button";
-import "./CTASection.css";
+import "./ctaSection.css";
 
 export default function CTASection() {
   const { t } = useTranslation();

@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import "./Logo.css";
+import "./logo.css";
 
 export default function Logo({ onClick }) {
   return (

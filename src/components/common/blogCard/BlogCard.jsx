@@ -1,5 +1,5 @@
 import { useTranslation } from "react-i18next";
-import "./BlogCard.css";
+import "./blogCard.css";
 
 export default function BlogCard({ dateKey, titleKey, excerptKey }) {
   const { t } = useTranslation();

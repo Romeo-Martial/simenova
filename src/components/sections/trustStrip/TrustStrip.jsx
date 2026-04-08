@@ -1,5 +1,5 @@
 import { useTranslation } from "react-i18next";
-import "./TrustStrip.css";
+import "./trustStrip.css";
 
 export default function TrustStrip() {
   const { t } = useTranslation();

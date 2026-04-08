@@ -3,7 +3,7 @@ import { NavLink, useLocation } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import LanguageSwitcher from "../../common/languageSwitcher/LanguageSwitcher";
 import Button from "../../common/button/Button";
-import "./navbar.css";
+import "./Navbar.css";
 
 export default function Navbar() {
   const { t } = useTranslation();
