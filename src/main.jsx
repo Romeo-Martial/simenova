@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import AppProviders from "./app/providers";
+import AppProviders from "./app/Providers";
 import App from "./App";
 import "./i18n";
 import "./styles/reset.css";
