@@ -1,0 +1,68 @@
+.hero__inner {
+  display: grid;
+  grid-template-columns: 1.2fr 1fr;
+  align-items: center;
+  gap: 3rem;
+}
+
+.hero__eyebrow {
+  color: var(--color-teal);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 1rem;
+}
+
+.hero__description {
+  font-size: 1.1rem;
+  margin-top: 1.25rem;
+  max-width: 42rem;
+}
+
+.hero__actions {
+  display: flex;
+  gap: 1rem;
+  margin-top: 2rem;
+  flex-wrap: wrap;
+}
+
+.hero__visual {
+  display: flex;
+  justify-content: center;
+}
+
+.hero__image {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  border-radius: var(--radius-xl);
+  box-shadow: var(--shadow-soft);
+  object-fit: cover;
+}
+
+.hero__card {
+  width: 100%;
+  min-height: 320px;
+  border-radius: var(--radius-xl);
+  background: linear-gradient(135deg, var(--color-light), #e6fffb);
+  box-shadow: var(--shadow-soft);
+  display: grid;
+  place-items: center;
+  color: var(--color-navy);
+  font-weight: 700;
+  text-align: center;
+  padding: 2rem;
+}
+
+@media (max-width: 900px) {
+  .hero__inner {
+    grid-template-columns: 1fr;
+    gap: 2rem; /* Reduce gap on mobile */
+  }
+
+  .hero__image {
+    max-height: 280px; /* Limit height to preserve content priority */
+    object-fit: cover;
+    object-position: center; /* Focus on center of image */
+  }
+}

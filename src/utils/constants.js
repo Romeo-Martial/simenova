@@ -1,0 +1,5 @@
+export const SITE_NAME = 'SIMENOVA'
+export const SITE_URL = 'https://www.simenova.com'
+export const CONTACT_EMAIL = 'contact@simenova.com'
+export const CONTACT_PHONE = '+1 (819) 701-9060'
+export const CONTACT_LOCATION = 'Quebec, Canada'

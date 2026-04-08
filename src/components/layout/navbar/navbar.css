@@ -1,0 +1,128 @@
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background: rgba(255, 255, 255, 0.95);
+  border-bottom: 1px solid var(--color-border);
+  backdrop-filter: blur(8px);
+}
+
+.navbar__inner {
+  min-height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+}
+
+.navbar__logo {
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: var(--color-navy);
+  flex-shrink: 0;
+  text-decoration: none;
+  outline: none;
+  border: none;
+  background: none;
+}
+
+.navbar__logo:focus,
+.navbar__logo:active {
+  outline: none;
+  text-decoration: none;
+  border: none;
+  background: none;
+}
+
+.navbar__nav {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+}
+
+.navbar__link {
+  color: var(--color-text);
+  font-weight: 500;
+  transition: color var(--transition-base);
+}
+
+.navbar__link:hover,
+.navbar__link--active {
+  color: var(--color-teal);
+}
+
+.navbar__actions {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.navbar__menu-button {
+  display: none;
+  width: 48px;
+  height: 48px;
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  background: var(--color-white);
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.navbar__menu-button span {
+  width: 20px;
+  height: 2px;
+  background: var(--color-navy);
+  border-radius: 999px;
+}
+
+.navbar__mobile {
+  display: none;
+  border-top: 1px solid var(--color-border);
+  background: var(--color-white);
+}
+
+.navbar__mobile--open {
+  display: block;
+}
+
+.navbar__mobile-inner {
+  padding: 1rem 0 1.5rem;
+  display: grid;
+  gap: 1.25rem;
+}
+
+.navbar__mobile-nav {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.navbar__mobile-link {
+  padding: 0.8rem 0;
+  border-bottom: 1px solid var(--color-border);
+  color: var(--color-text);
+  font-weight: 600;
+}
+
+.navbar__mobile-link--active {
+  color: var(--color-teal);
+}
+
+.navbar__mobile-footer {
+  display: grid;
+  gap: 1rem;
+  align-items: start;
+}
+
+@media (max-width: 960px) {
+  .navbar__nav,
+  .navbar__actions {
+    display: none;
+  }
+
+  .navbar__menu-button {
+    display: inline-flex;
+  }
+}

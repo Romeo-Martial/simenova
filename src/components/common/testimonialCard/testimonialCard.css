@@ -1,0 +1,24 @@
+.testimonial-card {
+  background: var(--color-white);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: 1.6rem;
+  box-shadow: var(--shadow-soft);
+  display: grid;
+  gap: 1.5rem;
+}
+
+.testimonial-card__quote {
+  color: var(--color-navy);
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+.testimonial-card__author {
+  display: grid;
+  gap: 0.3rem;
+}
+
+.testimonial-card__author span {
+  color: var(--color-text);
+}

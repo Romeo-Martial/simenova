@@ -1,0 +1,16 @@
+.cta-section {
+  background: var(--color-navy);
+  color: var(--color-white);
+}
+
+.cta-section h2,
+.cta-section p {
+  color: var(--color-white);
+}
+
+.cta-section__inner {
+  text-align: center;
+  display: grid;
+  gap: 1rem;
+  justify-items: center;
+}

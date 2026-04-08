@@ -1,0 +1,15 @@
+.page-intro {
+  max-width: 54rem;
+  display: grid;
+  gap: 1rem;
+}
+
+.page-intro--center {
+  text-align: center;
+  margin-inline: auto;
+}
+
+.page-intro__description {
+  color: var(--color-text);
+  font-size: 1.05rem;
+}

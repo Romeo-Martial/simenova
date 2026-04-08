@@ -1,0 +1,15 @@
+.team-preview__grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.5rem;
+}
+
+.team-preview__action {
+  margin-top: 2rem;
+}
+
+@media (max-width: 960px) {
+  .team-preview__grid {
+    grid-template-columns: 1fr;
+  }
+}

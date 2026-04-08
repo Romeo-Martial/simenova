@@ -1,0 +1,19 @@
+.blog-card {
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: 1.6rem;
+  background: var(--color-white);
+  box-shadow: var(--shadow-soft);
+  display: grid;
+  gap: 0.8rem;
+}
+
+.blog-card__date {
+  color: var(--color-teal);
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.blog-card p {
+  color: var(--color-text);
+}

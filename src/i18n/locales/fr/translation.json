@@ -1,0 +1,456 @@
+{
+  "pages": {
+    "about": "À propos",
+    "services": "Services",
+    "caseStudies": "Études de cas",
+    "team": "Équipe",
+    "blog": "Blog",
+    "contact": "Contact",
+    "notFound": "Page introuvable",
+    "notFoundDescription": "La page que vous recherchez n'existe pas ou a peut-être été déplacée."
+  },
+  "contactForm": {
+    "fields": {
+      "name": "Nom complet",
+      "email": "Adresse email",
+      "company": "Entreprise",
+      "service": "Service recherché",
+      "message": "Message"
+    },
+    "placeholders": {
+      "name": "Entrez votre nom complet",
+      "email": "Entrez votre adresse email",
+      "company": "Entrez le nom de votre entreprise",
+      "service": "Sélectionnez un service",
+      "message": "Décrivez vos besoins, objectifs ou votre projet."
+    },
+    "options": {
+      "dataAnalysis": "Analyse de données",
+      "predictiveModeling": "Modélisation prédictive",
+      "machineLearning": "Machine learning",
+      "decisionSupport": "Aide à la décision",
+      "consulting": "Conseil en analytique"
+    },
+    "submit": "Envoyer le message",
+    "success": "Votre message a été envoyé avec succès.",
+    "sending": "Envoi en cours...",
+    "error": "Une erreur s'est produite. Veuillez réessayer."
+  },
+  "seo": {
+    "home": {
+      "description": "SIMENOVA propose des solutions d'analyse de données et de machine learning pour les organisations de santé et de biotechnologie."
+    },
+    "about": {
+      "description": "Découvrez SIMENOVA, un partenaire analytique spécialisé qui aide les organisations de santé et de biotechnologie à mieux décider."
+    },
+    "services": {
+      "description": "Explorez les services SIMENOVA en analyse de données, modélisation prédictive, machine learning et aide à la décision."
+    },
+    "caseStudies": {
+      "description": "Découvrez des études de cas montrant comment SIMENOVA aide les organisations à transformer des données complexes en décisions plus claires."
+    },
+    "team": {
+      "description": "Rencontrez l'équipe SIMENOVA derrière des solutions d'analytique avancée et de machine learning pour la santé et la biotech."
+    },
+    "blog": {
+      "description": "Lisez des insights sur l'analytique, le machine learning, les données de santé et la prise de décision avec SIMENOVA."
+    },
+    "contact": {
+      "description": "Contactez SIMENOVA pour discuter de vos besoins en analyse de données, machine learning et aide à la décision."
+    }
+  },
+  "languageSwitcher": {
+    "label": "Sélecteur de langue"
+  },
+  "footer": {
+    "meta": {
+      "home": "Accueil",
+      "about": "À propos",
+      "services": "Services",
+      "caseStudies": "Études de cas",
+      "team": "Équipe",
+      "blog": "Blog",
+      "contact": "Contact",
+      "notFound": "Page introuvable"
+    },
+    "description": "Solutions d'analytique avancée et de machine learning pour les organisations de santé et de biotechnologie.",
+    "navigation": "Navigation",
+    "contact": "Contact"
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "À propos de SIMENOVA",
+      "title": "Un partenaire analytique spécialisé pour les organisations de santé et de biotechnologie",
+      "description": "Nous aidons les organisations à transformer des données complexes en insights clairs, fiables et exploitables grâce à l'analytique avancée et au machine learning."
+    },
+    "intro": {
+      "title": "Conçu pour des environnements décisionnels à forts enjeux",
+      "description": "SIMENOVA intervient à l'intersection de l'analytique, du machine learning et de la compréhension sectorielle afin de soutenir de meilleures décisions en santé et en biotechnologie."
+    },
+    "mission": {
+      "eyebrow": "Mission et valeurs",
+      "title": "Un engagement clair pour de meilleures décisions grâce à la data",
+      "description": "Notre mission est d'aider les organisations à apporter structure, rigueur et clarté à leurs enjeux analytiques les plus importants."
+    },
+    "values": {
+      "items": {
+        "clarity": {
+          "title": "Clarté",
+          "description": "Nous transformons la complexité en insights compréhensibles et prêts à l'action."
+        },
+        "rigor": {
+          "title": "Rigueur",
+          "description": "Notre travail repose sur des méthodes analytiques solides et un raisonnement rigoureux."
+        },
+        "impact": {
+          "title": "Impact",
+          "description": "Nous nous concentrons sur des résultats qui améliorent de vraies décisions stratégiques, scientifiques et opérationnelles."
+        }
+      }
+    },
+    "approach": {
+      "eyebrow": "Notre approche",
+      "title": "Un chemin pratique des données à l'action",
+      "description": "Nous structurons chaque mission pour passer de la compréhension du problème à des livrables réellement utiles pour les décideurs.",
+      "items": {
+        "understand": {
+          "title": "Comprendre le contexte",
+          "description": "Nous commençons par comprendre le contexte organisationnel, scientifique et opérationnel derrière les données."
+        },
+        "analyze": {
+          "title": "Analyser avec précision",
+          "description": "Nous appliquons des méthodes analytiques et de machine learning adaptées au problème, aux données et aux contraintes de décision."
+        },
+        "translate": {
+          "title": "Transformer en action",
+          "description": "Nous présentons les résultats clairement pour que les parties prenantes puissent agir avec plus de confiance et de structure."
+        }
+      }
+    }
+  },
+  "servicesPage": {
+    "hero": {
+      "eyebrow": "Services",
+      "title": "Des services analytiques et de machine learning conçus pour de meilleures décisions",
+      "description": "SIMENOVA propose des solutions d'analyse de données, de modélisation prédictive et d'aide à la décision pour les organisations de santé et de biotechnologie."
+    },
+    "intro": {
+      "title": "Des solutions adaptées à des besoins analytiques complexes",
+      "description": "Nos services sont conçus pour aider les organisations à passer d'informations fragmentées à des insights clairs et exploitables."
+    },
+    "offer": {
+      "eyebrow": "Notre offre",
+      "title": "Des services construits autour de vrais besoins clients",
+      "description": "De l'analyse ciblée aux solutions de machine learning sur mesure, SIMENOVA délivre un travail pensé pour créer une valeur concrète."
+    },
+    "benefits": {
+      "eyebrow": "Résultats",
+      "title": "Ce que les clients gagnent en travaillant avec SIMENOVA",
+      "description": "Notre travail vise à améliorer la clarté, renforcer la planification et soutenir des décisions mieux informées.",
+      "items": {
+        "decisionQuality": {
+          "title": "Une meilleure qualité de décision",
+          "description": "Soutenez les équipes de direction et d'exploitation grâce à des livrables analytiques plus structurés et fondés sur des preuves."
+        },
+        "forecasting": {
+          "title": "Des prévisions plus solides",
+          "description": "Utilisez des méthodes prédictives pour anticiper les tendances, schémas et scénarios futurs avec davantage de confiance."
+        },
+        "clarity": {
+          "title": "Une plus grande clarté analytique",
+          "description": "Transformez des jeux de données complexes en résultats compréhensibles et utiles pour les décideurs."
+        }
+      }
+    },
+    "process": {
+      "eyebrow": "Notre méthode",
+      "title": "Un processus structuré de la découverte à la livraison",
+      "description": "Chaque projet suit un processus pratique conçu pour aligner méthodes, attentes et résultats.",
+      "items": {
+        "discovery": {
+          "title": "Découverte",
+          "description": "Nous définissons le problème, le contexte, la réalité des données et les priorités décisionnelles."
+        },
+        "solutionDesign": {
+          "title": "Conception de la solution",
+          "description": "Nous construisons l'approche analytique adaptée aux besoins spécifiques de l'organisation."
+        },
+        "delivery": {
+          "title": "Livraison",
+          "description": "Nous fournissons des résultats, insights et recommandations exploitables par les parties prenantes."
+        }
+      }
+    }
+  },
+  "caseStudiesPage": {
+    "hero": {
+      "eyebrow": "Études de cas",
+      "title": "Exemples de travaux analytiques et d'aide à la décision",
+      "description": "Découvrez une sélection d'exemples montrant comment SIMENOVA aide les organisations à créer de la valeur à partir de leurs données."
+    },
+    "intro": {
+      "title": "Des défis complexes à des résultats plus clairs",
+      "description": "Chaque étude de cas montre comment l'analytique ciblée et le machine learning peuvent soutenir des décisions stratégiques, scientifiques et opérationnelles."
+    }
+  },
+  "teamPage": {
+    "hero": {
+      "eyebrow": "Équipe",
+      "title": "Des experts capables de transformer les données en insight",
+      "description": "SIMENOVA réunit des compétences techniques, analytiques et sectorielles pour accompagner ses clients avec rigueur et clarté."
+    },
+    "intro": {
+      "title": "Une équipe construite autour de l'analyse, de la communication et de l'impact",
+      "description": "Notre force vient de la combinaison entre une réflexion analytique profonde et la capacité à fournir des insights réellement utiles aux décideurs."
+    }
+  },
+  "blogPage": {
+    "hero": {
+      "eyebrow": "Blog",
+      "title": "Insights sur la data, le machine learning et la prise de décision",
+      "description": "Découvrez des idées, des perspectives et des réflexions pratiques à l'intersection de l'analytique, de la santé et des biotechnologies."
+    },
+    "intro": {
+      "title": "Un contenu utile pour les décideurs analytiques",
+      "description": "Notre blog met en avant les méthodes, questions et idées qui façonnent un meilleur usage de la data dans les organisations complexes."
+    }
+  },
+  "contactPage": {
+    "form": {
+      "eyebrow": "Formulaire de contact",
+      "title": "Parlez-nous de votre projet ou de vos besoins analytiques",
+      "description": "Partagez quelques informations pour permettre à SIMENOVA de mieux comprendre votre contexte."
+    },
+    "hero": {
+      "eyebrow": "Contact",
+      "title": "Parlons de vos besoins analytiques",
+      "description": "Que vous ayez besoin d'une analyse avancée, d'un accompagnement en machine learning ou d'insights orientés décision, SIMENOVA est prêt à vous aider."
+    },
+    "intro": {
+      "title": "Commençons la conversation",
+      "description": "Nous serions ravis d'échanger sur vos enjeux, vos objectifs et la manière dont la data peut soutenir de meilleures décisions."
+    },
+    "details": {
+      "eyebrow": "Coordonnées",
+      "title": "Contacter SIMENOVA",
+      "description": "Utilisez les informations ci-dessous pour prendre contact et lancer une discussion sur vos besoins.",
+      "items": {
+        "email": {
+          "title": "Email",
+          "description": "contact@simenova.com"
+        },
+        "phone": {
+          "title": "Téléphone",
+          "description": "+33 0 00 00 00 00"
+        },
+        "location": {
+          "title": "Localisation",
+          "description": "Paris, France"
+        }
+      }
+    }
+  },
+  "nav": {
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "caseStudies": "Études de cas",
+    "team": "Équipe",
+    "blog": "Blog",
+    "contact": "Contact",
+    "cta": "Réserver une consultation"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Analytique avancée pour la santé et les biotechnologies",
+      "title": "Analyse de données et machine learning pour de meilleures décisions en santé et biotechnologie",
+      "description": "SIMENOVA aide les organisations de santé et de biotechnologie à transformer des données complexes en informations exploitables grâce à l'analytique avancée, à la modélisation prédictive et à des solutions de machine learning adaptées aux prises de décision à forts enjeux.",
+      "primaryCta": "Réserver une consultation",
+      "secondaryCta": "Découvrir nos services"
+    },
+    "trustStrip": {
+      "items": [
+        "Expertise sectorielle",
+        "Informations exploitables",
+        "Méthodes analytiques rigoureuses",
+        "Solutions ML sur mesure"
+      ]
+    },
+    "cta": {
+      "title": "Transformez vos données en meilleures décisions",
+      "description": "Collaborez avec SIMENOVA pour apporter clarté, rigueur et intelligence à vos décisions en santé et biotechnologie.",
+      "button": "Nous contacter"
+    },
+    "caseStudies": {
+      "eyebrow": "Études de cas",
+      "title": "Travaux sélectionnés et impact analytique",
+      "description": "Découvrez comment SIMENOVA aide les organisations à transformer les données en décisions plus claires, en stratégies plus solides et en processus analytiques plus efficaces.",
+      "cta": "Voir les études de cas",
+      "labels": {
+        "challenge": "Défi",
+        "solution": "Solution",
+        "outcome": "Résultat"
+      },
+      "items": {
+        "forecasting": {
+          "title": "Amélioration de la précision des prévisions pour une équipe d'innovation en santé",
+          "challenge": "Le client avait besoin d'une meilleure visibilité sur les tendances futures et les données de planification.",
+          "solution": "SIMENOVA a développé une approche de modélisation prédictive fondée sur des données historiques et opérationnelles.",
+          "outcome": "L'équipe a obtenu des prévisions plus claires pour soutenir une planification plus fiable."
+        },
+        "decisionSupport": {
+          "title": "Mise en place d'un support décisionnel pour une fonction stratégique en biotechnologie",
+          "challenge": "La direction avait besoin d'un appui analytique plus clair pour prioriser ses décisions stratégiques.",
+          "solution": "SIMENOVA a structuré des livrables d'aide à la décision autour des principaux indicateurs opérationnels et de performance.",
+          "outcome": "Les parties prenantes ont bénéficié d'un cadre analytique plus fiable pour les décisions à fort impact."
+        },
+        "operationalAnalysis": {
+          "title": "Analyse de données opérationnelles pour une meilleure visibilité",
+          "challenge": "L'organisation disposait de grands volumes de données mais manquait de clarté sur les tendances les plus importantes.",
+          "solution": "SIMENOVA a réalisé une analyse ciblée et traduit les résultats en reporting adapté aux décideurs.",
+          "outcome": "Le client a obtenu une meilleure visibilité sur les tendances clés et les signaux opérationnels importants."
+        }
+      }
+    },
+    "team": {
+      "eyebrow": "Notre équipe",
+      "title": "L'expertise derrière chaque insight",
+      "description": "SIMENOVA réunit des profils analytiques, techniques et sectoriels pour aider ses clients à gérer la complexité des données avec confiance.",
+      "cta": "Découvrir l'équipe",
+      "items": {
+        "memberOne": {
+          "name": "Gaston SIMO, PhD",
+          "role": "Scientifique des données en biotechnologie",
+          "bio": "Spécialisé dans l'analyse de données biotechnologiques, la modélisation prédictive et l'analytique d'aide à la décision pour les organisations biotech et santé."
+        },
+        "memberTwo": {
+          "name": "Laminou ABOUBAKAR, PhD",
+          "role": "Ingénieur Machine Learning",
+          "bio": "Conçoit des solutions de machine learning évolutives qui transforment des données complexes en valeur opérationnelle."
+        },
+        "memberThree": {
+          "name": "René ETOGA",
+          "role": "Consultant en analytique",
+          "bio": "Aide les clients à structurer leurs problématiques analytiques et à communiquer clairement les résultats aux décideurs."
+        }
+      }
+    },
+    "testimonials": {
+      "eyebrow": "Témoignages",
+      "title": "Ce que disent nos clients de leur collaboration avec SIMENOVA",
+      "description": "Nous valorisons des partenariats fondés sur la confiance, la clarté et un accompagnement analytique utile.",
+      "items": {
+        "testimonialOne": {
+          "quote": "SIMENOVA nous a aidés à structurer un jeu de données très complexe et à en tirer des recommandations réellement exploitables.",
+          "name": "A. Laurent",
+          "role": "Responsable stratégie, équipe d'innovation en santé"
+        },
+        "testimonialTwo": {
+          "quote": "Leur rigueur analytique et leur capacité à communiquer clairement ont vraiment renforcé notre processus de décision.",
+          "name": "M. Bernard",
+          "role": "Directeur des opérations, entreprise biotech"
+        },
+        "testimonialThree": {
+          "quote": "Travailler avec SIMENOVA a été fluide, professionnel et très utile, aussi bien sur le plan technique que stratégique.",
+          "name": "S. Dubois",
+          "role": "Chef de projet, initiative santé data"
+        }
+      }
+    },
+    "blog": {
+      "eyebrow": "Insights",
+      "title": "Regards sur la data, le machine learning et la prise de décision",
+      "description": "Explorez des idées, des méthodes et des perspectives sectorielles à l'intersection de l'analytique, de la santé et des biotechnologies.",
+      "cta": "Voir le blog",
+      "items": {
+        "postOne": {
+          "date": "Insight",
+          "title": "Comment la modélisation prédictive peut améliorer la planification dans les organisations de santé",
+          "excerpt": "Un regard sur la manière dont les données historiques et opérationnelles peuvent améliorer la qualité de la planification."
+        },
+        "postTwo": {
+          "date": "Machine Learning",
+          "title": "Ce qui rend le machine learning utile pour l'aide à la décision",
+          "excerpt": "Pourquoi la valeur du machine learning dépend de la clarté, du contexte et de vrais besoins organisationnels."
+        },
+        "postThree": {
+          "date": "Analytics",
+          "title": "Transformer des données complexes en insights prêts pour les décideurs",
+          "excerpt": "Bonnes pratiques pour traduire les résultats analytiques en rapports et tableaux de bord vraiment utiles."
+        }
+      }
+    },
+    "about": {
+      "eyebrow": "À propos de SIMENOVA",
+      "title": "Transformer des données complexes en clarté stratégique",
+      "description": "SIMENOVA est un partenaire spécialisé en analytique et en machine learning pour les organisations de santé et de biotechnologie. Nous aidons les équipes à passer de données brutes à des informations claires et fiables pour prendre de meilleures décisions scientifiques, opérationnelles et stratégiques.",
+      "cta": "En savoir plus",
+      "highlights": {
+        "one": "Expertise sectorielle ciblée",
+        "two": "Informations analytiques exploitables",
+        "three": "Solutions d'aide à la décision sur mesure"
+      },
+      "panel": {
+        "label": "Une mission claire",
+        "value": "De meilleures décisions grâce à l'analytique avancée"
+      }
+    },
+    "services": {
+      "eyebrow": "Nos services",
+      "title": "Des solutions analytiques spécialisées pour les organisations de santé et de biotechnologie",
+      "description": "Nous proposons des services d'analyse de données et de machine learning conçus pour aider les organisations à extraire de la valeur de jeux de données complexes, améliorer leurs prévisions, soutenir leur planification stratégique et renforcer leur prise de décision.",
+      "cta": "Voir tous les services",
+      "items": {
+        "dataAnalysis": {
+          "title": "Analyse et interprétation de données",
+          "description": "Transformez des jeux de données complexes en informations claires et prêtes à l'action."
+        },
+        "predictiveModeling": {
+          "title": "Modélisation prédictive",
+          "description": "Utilisez les données historiques et opérationnelles pour anticiper les tendances, résultats et opportunités."
+        },
+        "machineLearning": {
+          "title": "Solutions de machine learning",
+          "description": "Développez des modèles sur mesure pour une prise de décision plus précise et plus efficace."
+        },
+        "decisionSupport": {
+          "title": "Outils d'aide à la décision",
+          "description": "Équipez vos équipes de cadres analytiques et de résultats qui guident les décisions à forts enjeux."
+        },
+        "visualization": {
+          "title": "Visualisation de données et reporting",
+          "description": "Communiquez clairement les résultats grâce à des tableaux de bord, visuels et rapports adaptés aux décideurs."
+        },
+        "consulting": {
+          "title": "Conseil en analytique",
+          "description": "Bénéficiez d'un accompagnement expert sur la stratégie data, l'usage des modèles et l'implémentation analytique."
+        }
+      }
+    },
+    "why": {
+      "eyebrow": "Pourquoi SIMENOVA",
+      "title": "Un partenaire analytique de confiance pour les environnements décisionnels complexes",
+      "description": "Les organisations de santé et de biotechnologie évoluent dans des environnements complexes et à forts enjeux où les données doivent être interprétées avec rigueur et clarté. SIMENOVA fournit des solutions solides sur le plan technique et utiles sur le plan opérationnel.",
+      "items": {
+        "sectorFocus": {
+          "title": "Compréhension sectorielle",
+          "description": "Nous comprenons la complexité, la sensibilité et l'importance stratégique des données en santé et biotechnologie."
+        },
+        "rigor": {
+          "title": "Méthodes analytiques rigoureuses",
+          "description": "Notre travail repose sur des approches analytiques structurées, fiables et transparentes."
+        },
+        "actionable": {
+          "title": "Résultats exploitables",
+          "description": "Nous ne nous arrêtons pas à l'analyse. Nous livrons des insights qui soutiennent de vraies décisions."
+        },
+        "tailored": {
+          "title": "Solutions sur mesure",
+          "description": "Chaque organisation a des défis, des données et des priorités spécifiques. Nos solutions sont construites en conséquence."
+        }
+      }
+    }
+  }
+}
